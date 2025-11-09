@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-11-02 02:09:57
- * GFWList Last-Modified: 2025-11-01 03:13:17
+ * Generated: 2025-11-09 02:08:53
+ * GFWList Last-Modified: 2025-11-08 16:50:38
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1362,9 +1362,7 @@ var rules = [
             "definebabe.com",
             "deja.com",
             "delcamp.net",
-            "delicious.com",
             "demo.unlock-music.dev",
-            "democrats.org",
             "demosisto.hk",
             "deno.dev",
             "depositphotos.com",
@@ -1822,6 +1820,7 @@ var rules = [
             "flecheinthepeche.fr",
             "fleshbot.com",
             "fleursdeslettres.com",
+            "flexclip.com",
             "flexpool.io",
             "flgjustice.org",
             "flickr.com",
@@ -2745,6 +2744,7 @@ var rules = [
             "imageflea.com",
             "imageglass.org",
             "images-gaytube.com",
+            "images.prismic.io",
             "imageshack.us",
             "imagevenue.com",
             "imagezilla.net",
